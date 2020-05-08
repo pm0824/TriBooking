@@ -21,7 +21,7 @@
 
 > This page is designed using flexbox.
 
-### Have a glance - [TriBooking](https://pm0824.github.io/TriBooking/)
+### Click here to visit the page -> [TriBooking](https://pm0824.github.io/TriBooking/)
 
 
 
